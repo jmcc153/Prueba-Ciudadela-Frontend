@@ -1,4 +1,4 @@
-##Explicación Frontend 
+## Explicación Frontend 
 
 En este proyecto se hizo uso del framework nextJs usando material UI para los estilos y Apollo para el uso GraphQL
 
